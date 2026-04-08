@@ -60,6 +60,8 @@ Onboarding assumed users would self-navigate to value. This created four system-
 
 This maps directly to the segmentation finding: Segments 3 and 4 have lower adoption capability and lower need intensity — any ambiguity in the journey is disproportionately damaging. They will not self-navigate to value; the journey must deliver it.
 
+![Redesigned onboarding flow](assets/onboarding-flow-v0.png)
+
 ---
 
 ## Intervention Design
